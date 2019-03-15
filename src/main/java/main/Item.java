@@ -5,6 +5,7 @@ public class Item{
     public  void addItem(String itemName,int mrpItem){
         //write your code here
     	//-------------------
+    	// call setter method
     	setItemName(itemName);
     	setMrp(mrpItem);
 

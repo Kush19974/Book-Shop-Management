@@ -14,6 +14,7 @@ public class Cart extends Bill{
       //write your code here
       //------------
       //------------
+    	// increment noOfItems
     	noOfItems++;
     	inCart.add(a);
     	quant.add(q);
